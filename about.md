@@ -8,7 +8,7 @@ of this particular organization.
 Farmer, planting agricultural products, income between 0 ~ 1K, unable to afford a living, probably fishing.
 Cut down 100 million acres of forest for farmland, keeping livestock, powered by nuclear power plant.
 
-<img width="1200" height="713" alt="image" src="https://github.com/user-attachments/assets/52140bcb-4e05-4a20-ac2e-0a22a2eaba0d" />
+<img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/52140bcb-4e05-4a20-ac2e-0a22a2eaba0d" />
 
 # Navigation
 [Notebook](notebook.md)
