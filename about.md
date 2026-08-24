@@ -5,6 +5,9 @@ skills on this course help me succeed through providing the skills essential to 
 fast development. Due to this, a computer science-related CTSO suited me, as well as the related competitions
 of this particular organization.
 
+Farmer, planting agricultural products, income between 0 ~ 1K, unable to afford a living, probably fishing.
+Cut down 100 million acres of forest for farmland, keeping livestock.
+
 # Navigation
 [Notebook](notebook.md)
 
