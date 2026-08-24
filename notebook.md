@@ -1,8 +1,8 @@
 ## Table of Contents
 
-# Title
-# Date
+## Title
+## Date
 ### Notes
 ### Practice
-# {Stuff}
-## {Example}
+## {Stuff}
+### {Example}
