@@ -1,6 +1,6 @@
 # Welcome to My Portfolio Hello! My name is Alex.
 # Projects
-- Project 1: None
+- Project 1: In progress
 - Project 2: In progress
 # About Me
 Click here to learn more → [About Me](about.md)
