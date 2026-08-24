@@ -6,7 +6,7 @@ fast development. Due to this, a computer science-related CTSO suited me, as wel
 of this particular organization.
 
 Farmer, planting agricultural products, income between 0 ~ 1K, unable to afford a living, probably fishing.
-Cut down 100 million acres of forest for farmland, keeping livestock.
+Cut down 100 million acres of forest for farmland, keeping livestock, powered by nuclear power plant.
 
 # Navigation
 [Notebook](notebook.md)
